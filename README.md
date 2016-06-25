@@ -1,6 +1,6 @@
 # ND06
 Tell Stories with with Data Visualization
-[Click here to view](jmcguigan.com\Baseball_Dynasty_Exploration)
+[Click here to view](http://www.jmcguigan.com/Baseball_Dynasty_Exploration\)
 
 # Summary
 I used data from Lahman's Baseball Database to show various statistics for baseball dynasties.  The criteria used here was <a href="http://espn.go.com/blog/sweetspot/post/_/id/54157/ranking-baseballs-greatest-dynasties">3 world series wins in a span of 5 years</a>, but since the definition of a dynasty is subjective it is also possible to customize the display.  The first graph displays one statistic (winning percentage by default) for the years of the dynasty with the selected team highlighted. The second graph displays two statistics (runs and runs allowed) in a scatterplot for the selected year, with the selected team highlighted.  
